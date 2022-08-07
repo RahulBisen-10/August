@@ -1,0 +1,7 @@
+sudo su     -----> to get admin rights
+yum update -y
+yum install git -y
+git --version
+git config --global user.name  ''rahul/ram"
+git config --global user.email  "rahulbisen2019@gmail.com"
+git config  --list
