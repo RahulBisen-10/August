@@ -5,3 +5,5 @@ git --version
 git config --global user.name  ''rahul/ram"
 git config --global user.email  "rahulbisen2019@gmail.com"
 git config  --list
+https://github.com/RahulBisen-10/CentralGit.git
+https://github.com/RahulBisen-10/newrepo.git
